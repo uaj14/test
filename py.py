@@ -1,3 +1,4 @@
+"""Returns x * 2"""
 def db(x):
     return x * 2
 
