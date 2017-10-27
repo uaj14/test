@@ -1,3 +1,6 @@
+def plus(x):
+    return x + 1
+
 """Returns (x+1)^(x+1)""" # Line 1-2 changed in u1
 
 def ex(x):
@@ -5,3 +8,4 @@ def ex(x):
     return x**x
 # This line changed in u0 # and again in u1
 print(ex(1))
+print(plus(0))
