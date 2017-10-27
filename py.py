@@ -1,3 +1,4 @@
+"""Returns x + 1"""
 def plus(x):
     return x + 1
 
